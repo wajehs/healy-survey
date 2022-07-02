@@ -1,6 +1,6 @@
-# healy_survey
+# Healy Survey
 
-A new Flutter project.
+Healy survey application the cusotmer to express their feelings based on a survey
 
 ## Getting Started
 
